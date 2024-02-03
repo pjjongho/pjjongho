@@ -26,7 +26,7 @@
 <p align="center">
 <a href="mailto:jjong2961@gmail.com">
 <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qlduarhk@gmail.com"/></a>
-<a href="velog.io/@jjong2961">
+<a href="https://velog.io/@jjong2961/">
 <img src="https://img.shields.io/badge/techlog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jjong2961"/></a>
 </p><br>
 
